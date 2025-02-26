@@ -1,0 +1,17 @@
+8;True;True;Visokaya;840
+8;False;False;Povishennaya;240
+8;True;True;Ochen_visokaya;960
+8;False;False;Obichnaya;200
+17;True;True;Obichnaya;700
+17;False;False;Ochen_visokaya;480
+17;True;True;Visokaya;980
+17;False;False;Povishennaya;360
+36;True;False;Obichnaya;500
+36;False;False;Povishennaya;480
+36;True;False;Visokaya;700
+36;False;False;Ochen_visokaya;640
+0;False;True;Ochen_visokaya;720
+1;True;True;Visokaya;770
+1;False;False;Povishennaya;180
+1;True;True;Ochen_visokaya;880
+1;False;False;Obichnaya;150
