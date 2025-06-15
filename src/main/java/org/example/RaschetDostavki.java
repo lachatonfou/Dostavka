@@ -25,11 +25,11 @@ public class RaschetDostavki {
         int stoimost = 0;
         int ItogGabarity = gabarity ? 200 : 100;
 
-        if (rasstoyanie < 2) {
+        if (rasstoyanie <= 2) {
             stoimost += 50;
-        } else if (rasstoyanie < 10) {
+        } else if (rasstoyanie <= 10) {
             stoimost += 100;
-        } else if (rasstoyanie < 30) {
+        } else if (rasstoyanie <= 30) {
             stoimost += 200;
         } else {
             stoimost += 300;
